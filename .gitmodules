@@ -1,0 +1,6 @@
+[submodule "3rdparty/ByteMLPerf"]
+	path = 3rdparty/ByteMLPerf
+	url = https://github.com/bytedance/ByteMLPerf.git
+[submodule "3rdparty/nvbit"]
+	path = 3rdparty/nvbit
+	url = https://github.com/NVlabs/NVBit.git
